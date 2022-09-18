@@ -1,4 +1,4 @@
 <?php 
-    echo "私の好きな食べ物は" . PHP_EOL;
-    echo "たけのこです";
-    
+    echo '私の好きな食べ物は' . PHP_EOL;
+    echo 'たけのこです';
+
